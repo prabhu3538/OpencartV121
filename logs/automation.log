@@ -1,0 +1,133 @@
+2024-10-24 14:02:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 14:02:28 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 14:02:28 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 14:02:29 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 14:04:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 14:04:53 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 14:04:53 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 14:04:53 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 20:19:57 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 20:24:07 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 20:26:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 20:26:06 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 20:26:06 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 20:26:07 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\AppData\Local\Temp\testng-eclipse--649894183\testng-customsuite.xml
+
+2024-10-24 20:30:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-10-24 20:30:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@33e01298: 107 ms
+2024-10-24 20:30:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d098f9b: 17 ms
+2024-10-24 20:30:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4c51bb7: 14 ms
+2024-10-24 20:30:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2364305a: 7 ms
+2024-10-24 20:30:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1c55f277: 11 ms
+2024-10-24 20:30:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5ddabb18: 1 ms
+2024-10-24 20:31:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-24 20:36:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\grouping.xml
+
+2024-10-24 20:37:34 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 20:48:15 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 20:51:53 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 20:54:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 20:54:37 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 20:54:37 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 20:54:37 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 20:59:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 20:59:54 INFO  TC001_AccountRegistrationTest:16 - ****TC001_AccountRegistrationTest****
+2024-10-24 20:59:54 INFO  TC001_AccountRegistrationTest:20 - ****Clicked on MyAccount****
+2024-10-24 20:59:55 INFO  TC001_AccountRegistrationTest:23 - ****Clicked On Register****
+2024-10-24 20:59:55 INFO  TC001_AccountRegistrationTest:26 - ****Providing customer details****
+2024-10-24 20:59:57 INFO  TC001_AccountRegistrationTest:40 - ****Validating Expected message****
+2024-10-24 20:59:57 INFO  TC001_AccountRegistrationTest:52 - ****Finished TC001_AccountRegistrationTest****
+2024-10-24 21:00:02 INFO  TC002_LoginTest:15 - ***Starting TC002_LoginTest***
+2024-10-24 21:00:05 INFO  TC002_LoginTest:38 - ***finished TC002_LoginTest
+2024-10-24 21:00:07 INFO  Utils:112 - [[Utils]] The system cannot find the path specified
+2024-10-24 21:00:07 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 21:00:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 21:02:28 INFO  TC001_AccountRegistrationTest:16 - ****TC001_AccountRegistrationTest****
+2024-10-24 21:02:28 INFO  TC001_AccountRegistrationTest:20 - ****Clicked on MyAccount****
+2024-10-24 21:02:29 INFO  TC001_AccountRegistrationTest:23 - ****Clicked On Register****
+2024-10-24 21:02:29 INFO  TC001_AccountRegistrationTest:26 - ****Providing customer details****
+2024-10-24 21:02:31 INFO  TC001_AccountRegistrationTest:40 - ****Validating Expected message****
+2024-10-24 21:02:31 INFO  TC001_AccountRegistrationTest:52 - ****Finished TC001_AccountRegistrationTest****
+2024-10-24 21:03:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 21:04:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 21:04:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-24 21:46:22 INFO  TC001_AccountRegistrationTest:16 - ****TC001_AccountRegistrationTest****
+2024-10-24 21:46:23 INFO  TC001_AccountRegistrationTest:20 - ****Clicked on MyAccount****
+2024-10-24 21:46:24 INFO  TC001_AccountRegistrationTest:23 - ****Clicked On Register****
+2024-10-24 21:46:24 INFO  TC001_AccountRegistrationTest:26 - ****Providing customer details****
+2024-10-24 21:46:26 INFO  TC001_AccountRegistrationTest:40 - ****Validating Expected message****
+2024-10-24 21:46:26 INFO  TC001_AccountRegistrationTest:52 - ****Finished TC001_AccountRegistrationTest****
+2024-10-24 21:46:30 INFO  TC002_LoginTest:15 - ***Starting TC002_LoginTest***
+2024-10-24 21:46:32 INFO  TC002_LoginTest:38 - ***finished TC002_LoginTest
+2024-10-24 21:46:34 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 22:03:21 INFO  TC001_AccountRegistrationTest:16 - ****TC001_AccountRegistrationTest****
+2024-10-24 22:03:21 INFO  TC001_AccountRegistrationTest:20 - ****Clicked on MyAccount****
+2024-10-24 22:03:23 INFO  TC001_AccountRegistrationTest:23 - ****Clicked On Register****
+2024-10-24 22:03:23 INFO  TC001_AccountRegistrationTest:26 - ****Providing customer details****
+2024-10-24 22:03:25 INFO  TC001_AccountRegistrationTest:40 - ****Validating Expected message****
+2024-10-24 22:03:25 INFO  TC001_AccountRegistrationTest:52 - ****Finished TC001_AccountRegistrationTest****
+2024-10-24 22:03:34 INFO  TC002_LoginTest:15 - ***Starting TC002_LoginTest***
+2024-10-24 22:03:37 INFO  TC002_LoginTest:38 - ***finished TC002_LoginTest
+2024-10-24 22:03:40 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
+2024-10-24 22:25:34 INFO  TC001_AccountRegistrationTest:16 - ****TC001_AccountRegistrationTest****
+2024-10-24 22:25:34 INFO  TC001_AccountRegistrationTest:20 - ****Clicked on MyAccount****
+2024-10-24 22:25:35 INFO  TC001_AccountRegistrationTest:23 - ****Clicked On Register****
+2024-10-24 22:25:35 INFO  TC001_AccountRegistrationTest:26 - ****Providing customer details****
+2024-10-24 22:25:37 INFO  TC001_AccountRegistrationTest:40 - ****Validating Expected message****
+2024-10-24 22:25:37 INFO  TC001_AccountRegistrationTest:52 - ****Finished TC001_AccountRegistrationTest****
+2024-10-24 22:25:41 INFO  TC002_LoginTest:15 - ***Starting TC002_LoginTest***
+2024-10-24 22:25:44 INFO  TC002_LoginTest:38 - ***finished TC002_LoginTest
+2024-10-24 22:25:45 INFO  TestHTMLReporter:112 - [TestHTMLReporter] The system cannot find the path specified
